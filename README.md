@@ -1,8 +1,12 @@
 # built_in_animated
 
-A new Flutter project.
+A new Flutter project that uses **AnimatdContainer** and **FadeTransiion** , you can wathc the episode on Youtube, link : https://youtu.be/E8scinMJz4g
+
+![thumContainer](https://user-images.githubusercontent.com/36349126/191806079-6389b5fc-3af8-44fe-9670-56cdc27273dd.png)
+
 
 ## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
